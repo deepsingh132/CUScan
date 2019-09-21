@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+
+
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="260dp"
+        android:layout_gravity="top"
+        android:textColorHint="@color/Black"
+        android:textColor="@color/Black"
+        android:hint="Type Something Here"
+         />
+
+    <ImageView
+        android:id="@+id/qrcode"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="5dp"
+
+        android:padding="4dp" />
+
+    <Button
+        android:id="@+id/generate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="-50dp"
+        android:layout_marginRight="60dp"
+        android:background="@color/zxing_viewfinder_laser"
+        android:padding="4dp"
+        android:text="Generate"
+        android:textColor="@android:color/black" />
+
+
+    <Button
+        android:id="@+id/scan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+
+        android:layout_marginLeft="90dp"
+        android:background="@color/zxing_viewfinder_laser"
+        android:padding="4dp"
+        android:text="Scan"
+        android:textColor="@color/Black" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:layout_marginBottom="-10dp"
+        android:background="@color/zxing_viewfinder_laser"
+        android:text="Share"
+        android:textColor="@color/Black" />
+
+</LinearLayout>
