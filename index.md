@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[./another-page.html](./another-page.html).
+[./another-page.html](Privacy Policy).
 
 There should be whitespace between paragraphs.
 
