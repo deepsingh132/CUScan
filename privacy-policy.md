@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Privacy Policy
+description: Don't Worry ! Your Data Is In Safe Hands 👍🏻
 ---
 
 ## Welcome to CUScan's Privacy Policy Page
