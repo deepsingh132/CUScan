@@ -20,14 +20,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Clone My Repository !
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+// Run The Following Command In Git followed by clone/
+https://github.com/deepsingh132/CUScan.git
 ```
 
 ```ruby
@@ -105,13 +102,13 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Mandeep Singh</dd>
+<dt>Contact</dt>
+<dd>hackbaba132@gmail.com</dd>
+<dt>Address</dt>
+<dd>Department Of UIC BCA-2C</dd>
+<dt>Skills/Experience</dt>
+<dd>C++,Java,Python,C,Arduino Pro,Flutter and Kotlin Rookie</dd>
 </dl>
 
 ```
