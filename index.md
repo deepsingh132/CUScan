@@ -104,7 +104,7 @@ end
 <dt>Name</dt>
 <dd>Mandeep Singh</dd>
 <dt>Contact</dt>
-<dd>hackbaba132@gmail.com</dd>
+<dd>deepsingh132@hackbaba.com</dd>
 <dt>Address</dt>
 <dd>Department Of UIC BCA-2C</dd>
 <dt>Skills/Experience</dt>
